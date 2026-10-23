@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Wartales-Save-Utility` · Updated: 2026-10-07
+`Wartales-Save-Utility` · Updated: 2026-10-24
 
 **Tags:** `wartales` `savegame` `rpg` `strategy` `medieval`
